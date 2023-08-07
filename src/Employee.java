@@ -1,7 +1,7 @@
 public class Employee {
-    private int emp_id;
-    private String emp_name;
-    private int emp_age;
+     int emp_id;
+     String emp_name;
+     int emp_age;
 
     public int getEmp_id(){
         return emp_id;
